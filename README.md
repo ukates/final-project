@@ -17,17 +17,16 @@ Your goals for Week 1 of the final project should be:
 * create a rough design of your final project
 
 ### :bangbang: Deliverables for Week 1
- To achieve your week 1 goals, turn in the following:
+ To achieve your week 1 goals, complete the following for credit:
 
 - [ ] Fork this project.
-  * You'll then be able to check off the items on this list, but only on your own fork.
+  * You'll then be able to :white_check_mark: the items on this list, but only on your own fork.
 
-- [ ] Create an **Issue** with your project proposal.
-  * On the final project repository, create an **Issue** titled: `yourusername's Final Project Proposal`.
+- [ ] Create an [Issue](https://github.com/valencia-cop1000-201620/final-project/issues/new) with your project proposal.
   * The **Issue** will automatically populate with some fields for you to fill in. Answer the questions that autopopulate.
-  * Feel free to write add comments about what you'd like some feedback from classmates or the professor on.
+  * Feel free to add comments about what you'd like some feedback from classmates or the professor on.
 
-- [ ] Provide feedback to ** Issues ** opened by your classmates. Some useful feedback would be:
+- [ ] Provide feedback to **Issues** opened by your classmates. Some useful feedback would be:
   * does the project seem like too much work to be done in 1 week? If not, how could you suggest the project be modified so it fits into the given timeframe?
   * what obstacles might your classmate have missed?
   * does the project utilize topics learned throughout the semester?
@@ -44,12 +43,13 @@ Your goals for Week 2 of the final project should be:
 * solicit feedback from classmates
 * provide feedback to classmates
 
-- [ ] Fork the `final-project` repository. This will create a personal copy of the repository on your GitHub account.
+### :bangbang: Deliverables for Week 2
+ To achieve your week 1 goals, complete the following for credit:
 
-- [ ] Clone the `final-project` repository. This will download a copy of the repo to your computer so you can begin adding files.
+- [ ] Clone the `final-project` repository from your own fork. This will download a copy of the repo to your computer so you can begin adding files. Just like we've done in previous projects.
 
-- [ ] Formalize the design you discussed in Week 1 by adding one or more files to the `design` folder. These files can be outlines, diagrams, written descriptions of programming structure, pseudocode, or anything that helps you plan out ** BEFORE ** you begin coding.
+- [ ] Formalize the design you discussed in Week 1 by adding one or more files to the `design` folder. These files can be outlines, diagrams, written descriptions of programming structure, pseudocode, or anything that helps you plan out **BEFORE** you begin coding.
 
 - [ ] Add your python program to the `devel` folder.
 
-- [ ] Add a `README` file to your `devel` folder explaining, in detail, how to run your program. Include a detailed description, screenshots, requires modules (if any need to be installed), etc. Anything a complete stranger would need to get your program running.
+- [ ] Update the `README.md` file to your `devel` folder explaining, in detail, how to run your program. Instructions are in the starter file I placed in the `devel` folder.
