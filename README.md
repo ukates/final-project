@@ -19,21 +19,18 @@ Your goals for Part 1 of the final project should be:
 ### :bangbang: Deliverables for Part 1
  To achieve your Part 1 goals, complete the following for credit:
 
-- [ ] Fork this project.
-  * You'll then be able to :white_check_mark: the items on this list, but only on your own fork.
-
-- [ ] Create an [Issue](https://github.com/valencia-cop1000-201620/final-project/issues/new) with your project proposal.
+:ballot_box_with_check: Create an [Issue](https://github.com/valencia-cop1000-201620/final-project/issues/new) with your project proposal.
   * The **Issue** will automatically populate with some fields for you to fill in. Answer the questions that autopopulate.
   * Feel free to add comments about what you'd like some feedback from classmates or the professor on.
 
-- [ ] Provide feedback to **Issues** opened by your classmates. **You need to provide feedback to at least 3 classmates for credit.** Some useful feedback would be:
+:ballot_box_with_check: Provide feedback to **Issues** opened by your classmates. **You need to provide feedback to at least 3 classmates for credit.** Some useful feedback would be:
   * does the project seem like too much work to be done in 1 week? If not, how could you suggest the project be modified so it fits into the given timeframe?
   * what obstacles might your classmate have missed?
   * does the project utilize topics learned throughout the semester?
   * does your classmate describe a general plan for achieving his/her desired project? the plan could be an outline, diagram, drawing, written description of programming structure, pseudocode, etc.
 
 
-- [ ] Keep an eye on your notifications so that you can continue conversations on your own **Issue** but also on the **Issues** in which you have given feedback. When you receive a :+1: from the professor, you can begin implementing.
+:ballot_box_with_check: Keep an eye on your notifications so that you can continue conversations on your own **Issue** but also on the **Issues** in which you have given feedback. When you receive a :+1: from the professor, you can begin implementing.
 
 ## Part 2
 
@@ -46,19 +43,21 @@ Your goals for Part 2 of the final project should be:
 ### :bangbang: Deliverables for Part 2
  To achieve your part 2 goals, complete the following for credit:
 
-- [ ] Clone the `final-project` repository from your own fork. This will download a copy of the repo to your computer so you can begin adding files. Just like we've done in previous projects.
+:ballot_box_with_check: Fork this project to your personal GitHub account.
 
-- [ ] Formalize the design you discussed in Week 1 by adding one or more files to the `design` folder. These files can be outlines, diagrams, written descriptions of programming structure, pseudocode, or anything that helps you plan out **BEFORE** you begin coding.
+:ballot_box_with_check: Clone the `final-project` repository from your own fork. This will download a copy of the repo to your computer so you can begin adding files. Just like we've done in previous projects.
 
-- [ ] Add your python program to the `devel` folder.
+:ballot_box_with_check: Formalize the design you discussed in Week 1 by adding one or more files to the `design` folder. These files can be outlines, diagrams, written descriptions of programming structure, pseudocode, or anything that helps you plan out **BEFORE** you begin coding.
 
-- [ ] Update the `README.md` file to your `devel` folder explaining, in detail, how to run your program. Instructions are in the starter file I placed in the `devel` folder.
+:ballot_box_with_check: Add your python program to the `devel` folder.
 
-- [ ] Once finished, commit any final changes like you've done for previous projects, and sync your changes up to GitHub.
+:ballot_box_with_check: Update the `README.md` file to your `devel` folder explaining, in detail, how to run your program. Instructions are in the starter file I placed in the `devel` folder.
 
-- [ ] Create a pull request to turn in this assignment. In your pull request, include questions you'd like your classmates to give you feedback on.
+:ballot_box_with_check: Once finished, commit any final changes like you've done for previous projects, and sync your changes up to GitHub.
 
-- [ ] Give feedback to your classmates via the [open pull requests page](https://github.com/valencia-cop1000-201620/final-project/pulls). **You need to provide feedback to at least 3 classmates for credit.** Some useful feedback would be:
+:ballot_box_with_check: Create a pull request to turn in this assignment. In your pull request, include questions you'd like your classmates to give you feedback on.
+
+:ballot_box_with_check: Give feedback to your classmates via the [open pull requests page](https://github.com/valencia-cop1000-201620/final-project/pulls). **You need to provide feedback to at least 3 classmates for credit.** Some useful feedback would be:
   * Does the classmate's project run on your computer? Don't be afraid to ask for help if it doesn't, this is a learning experience for both you and the other student.
   * What did you like the most about the project?
   * Is there something that you think the other student could change about the project to make it easier to use, or to improve the quality of the project?
@@ -66,4 +65,4 @@ Your goals for Part 2 of the final project should be:
   * If you'd like to get someone's attention, at-mention them by using the @ symbol and their username (like @halfaro1, for example)
   * Be a cheerleader for your classmates and provide :sparkles:
 
-- [ ] Monitor your own open pull request for feedback from other classmates or the instructor. Incorporate the feedback. When the instructor closes your pull request, you can consider yourself finished. But don't be afraid to introduce new changes or continue the conversation!
+:ballot_box_with_check: Monitor your own open pull request for feedback from other classmates or the instructor. Incorporate the feedback. When the instructor closes your pull request, you can consider yourself finished. But don't be afraid to introduce new changes or continue the conversation!
