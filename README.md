@@ -6,9 +6,9 @@ You'll have two weeks to complete this project. The first week will be spent sco
 
 The final project repository housed [here](https://github.com/valencia-cop1000-201620/final-project/) will maintain conversations about the project. Additionally, you'll fork and clone the class repository to your **personal** GitHub account. This is where you'll create your files and you'll submit them for grading via a pull request, as we've done in past projects.
 
-## Week 1
+## Part 1
 
-Your goals for Week 1 of the final project should be:
+Your goals for Part 1 of the final project should be:
 * narrow down the topic of your final project
 * create a proposal for your final project
 * solicit feedback from classmates
@@ -16,8 +16,8 @@ Your goals for Week 1 of the final project should be:
 * provide feedback to classmates on their proposal
 * create a rough design of your final project
 
-### :bangbang: Deliverables for Week 1
- To achieve your week 1 goals, complete the following for credit:
+### :bangbang: Deliverables for Part 1
+ To achieve your Part 1 goals, complete the following for credit:
 
 - [ ] Fork this project.
   * You'll then be able to :white_check_mark: the items on this list, but only on your own fork.
@@ -35,16 +35,16 @@ Your goals for Week 1 of the final project should be:
 
 - [ ] Keep an eye on your notifications so that you can continue conversations on your own **Issue** but also on the **Issues** in which you have given feedback. When you receive a :+1: from the professor, you can begin implementing.
 
-## Week 2
+## Part 2
 
-Your goals for Week 2 of the final project should be:
+Your goals for Part 2 of the final project should be:
 * finalize your design from Week 1
 * implement your final project (this is the coding portion!)
 * solicit feedback from classmates
 * provide feedback to classmates
 
-### :bangbang: Deliverables for Week 2
- To achieve your week 1 goals, complete the following for credit:
+### :bangbang: Deliverables for Part 2
+ To achieve your part 2 goals, complete the following for credit:
 
 - [ ] Clone the `final-project` repository from your own fork. This will download a copy of the repo to your computer so you can begin adding files. Just like we've done in previous projects.
 
