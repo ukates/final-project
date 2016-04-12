@@ -1,3 +1,5 @@
+**Please change the Title of this issue to include your username, something like: halfaro1's Final Project Proposal. When you've done that, you can remove this line and fill in the rest of the body of this issue below.**
+
 ### Name
 What's your real name? Enter your first and last name in place of this text, please.
 
