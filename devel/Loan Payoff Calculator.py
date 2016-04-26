@@ -3,7 +3,7 @@ print('WELCOME TO YOUR PERSONAL AUTO LOAN CALCULATOR!')
 print()
 while True:
     try:
-        print('How much will you be borrowing? #NOTE# No need for commas! ')
+        print('How much will you be borrowing? #NOTE# No need for commas!\n')
         p = float(input())
     except ValueError:
         print('Invalid input, please do not use commas!\n')
@@ -11,11 +11,11 @@ while True:
         break
 while True:
     try:
-        print('What will be your interest rate? #NOTE# No % symbol needed!' )
+        print('What will be your interest rate? #NOTE# No % symbol needed! An example of the proper format is 7.99\n' )
         rate = float(input())/100
         r = (rate/int(12))
     except ValueError:
-        print('Invalid input, please do not use % symbol!\n')
+        print('Invalid input, please do not use % symbol! ')
     else:
         break
 while True:
