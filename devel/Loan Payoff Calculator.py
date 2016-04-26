@@ -1,4 +1,7 @@
-import time, datetime
+import time, datetime, os
+os.makedirs(('LoanDetails'), exist_ok=True)
+
+
 print('WELCOME TO YOUR PERSONAL AUTO LOAN CALCULATOR!')
 print()
 while True:
@@ -58,9 +61,15 @@ def payOff(p,r,l):
     print()
     time.sleep(2)
     print()
-    print('Based on the date of your first payment, you will complete the terms of your loan on ' + str(payOffDate) + ' having paid a total of $ ' + str(round(totalPayoff,2))) 
+    print('Based on the date of your first payment, you will complete the terms of your loan on ' + str(payOffDate) + ' having paid a total of $ ' + str(round(totalPayoff,2)))
 
     
+
+    
+    resultFile = open('LoanDetails/payOffResults.txt', 'w')
+    resultFile.write('In order to pay off your loan in ' + str(l) + ' months, you would need to pay $' + str(round(c,2)) + ' per month.\n\nOnce the loan is complete, you will have paid $' + str(round(interestPaid,2)) + ' in interest!\n\nBased on the date of your first payment, you will complete the terms of your loan on ' + str(payOffDate) + ' having paid a total of $ ' + str(round(totalPayoff,2)))
+    resultFile.close()
+
 payOff(p,r,l)
 
 
