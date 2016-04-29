@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Basically with my program I wanted to make an auto loan calculator that would ask the user for different aspects of their loan terms and give the user a print out of what to expect as far as a monthly payment and total of paid interest is concerned.  \
+\
+I started by designing the actual function that would determine the monthly payment and the total payoff amount.  \
+\
+The function i created was going to be called payOff(p,r,l).  This function is based off a simple auto loan formula.  P = original amount of the loan R = apr / 12 to give monthly rate and L = the life of the loan.  \
+\
+I will split the formula into three parts to make it easier for me to visualize what i would need to do\'85 \
+\
+I will create 3 variables, A, B, and C Each part will be one portion of the formula.  \
+\
+C will represent the answer for monthly payment.  \
+\
+To determine total payoff amount I will need to multiple c by the number of months which is l and then to get interest paid i will need to subtract the original principle from the total payoff amount. \
+\
+After creating the function I will need to make some while loops in order to ask the user for the input and prevent the program from crashing using exceptions.  \
+\
+since I will be using decimals there is heavy use of float() \
+\
+Once i am able to get the function to work as i would like and provide the proper output, then I will move on to making the program calculate the date for me.  To do this I will need to use the date time library.  \
+\
+I will also use the time.sleep() ability within date time to make the program pause instead of just throwing all of the content out at the user all at once.  \
+\
+date time is as simple as using date time.timedelta(length of the loan multiplied by 365/ 12) which will help me to calculate a date that is the number of months away from the payment date that I will have the user choose in the program.  \
+\
+After all of this is working smoothly I then move on to the easiest part, making a folder within the current directory using the os library, and os.makedirs() Using the write function within os, I can create a .txt document of all of the answers and save it to the folder that i create! }
